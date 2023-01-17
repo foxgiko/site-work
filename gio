@@ -1,0 +1,62 @@
+<html>
+    <style>
+    footer{background-color:black;color:white;}
+    header{background-color:black;color:white;}
+
+
+
+     table td{border:1px solid;font-size:20px}  
+     table {border:1px solid;font-size:20px}
+     img{ width:40px;}   
+     body {font-famly: sans serif;background-color:lightgray; }
+     p{font-size:20px }   
+    </style>
+    <body><i>
+    <header>
+     <h1 style=" font-size:50px" >სასაცილო ფაქტები საჭმლის შსახებ</h1>
+    <p><b> რაც ჯერ არ გსმენიათ</b></p>
+    </header>
+    <table>
+     
+<tr>
+<th style="border:1px solid;font-size:20px">სარჩევი</th>
+</tr>
+<tr>
+<td>1.ნამცხვარი<img src="https://www.thefactsite.com/wp-content/uploads/2019/12/pound-cake-recipe.webp"/></td>
+</tr>
+<tr>
+<td>2.ვასაბი<img src="https://www.thefactsite.com/wp-content/uploads/2019/12/wasabi-supermarket-horseradish.webp"/></td>
+</tr>
+<tr>
+<td>3.ბურგერი<img src="https://www.thefactsite.com/wp-content/uploads/2019/12/fast-food-burger-meat.webp"/></td>
+</tr> 
+<tr>
+<td>4.კეტჩუპი<img src="https://www.thefactsite.com/wp-content/uploads/2019/12/ketchup-medicine.webp"/></td>
+</tr>
+<tr>
+<td>5.თეთრი შოკოლადი<img src="https://www.thefactsite.com/wp-content/uploads/2019/12/white-chocolate-fact.webp"/></td>
+</tr>
+
+    </table>
+    
+<p style="color:red" align="center">------hello---------</p>
+<p style="color:red" align="center">--------let's---------</p>
+<p style="color:red" align="center">--------start---------</p>
+<p style="color:red" align="center">-------are------------</p>
+<p style="color:red" align="center">-------you------------</p>
+<p style="color:red" align="center">-------redy----------</p>
+<p style="color:red" align="center">-------okey----------</p>
+<p>1.ფუნტის ნამცხვრმა სახელი მიიღო რეცეპტიდან.<br>
+2.სუპერმარკეტების ვასაბის უმეტესობა რეალურად არის რძისფერი.<br>
+3.ერთი სწრაფი კვების ბურგერი შეიძლება იყოს 100 სხვადასხვა ძროხის ხორცი.<br>
+4.კეტჩუპს იყენებდნენ როგორც წამალს.<br>
+5.თეთრი შოკოლადი არ არის შოკოლადი</p>
+<a href="https://www.thefactsite.com/100-random-food-facts/">მეტის გაგება</a>
+
+   
+     <footer> 
+   <h2 style="font-size:40px">თუ სურვილი გაქვთ ამ ნომერზე დაგვეკონტაკტეთ და გვითხარით რას აავამატოთ 595467733 </h2>
+     </footer>
+     </i>
+   </body>  
+</html>
